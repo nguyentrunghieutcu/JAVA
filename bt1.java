@@ -6,6 +6,7 @@ public class Main {
 
     public static int nhap()
     {
+    
         Scanner input = new Scanner(System.in);
         boolean check= false;
 		int n=0;
